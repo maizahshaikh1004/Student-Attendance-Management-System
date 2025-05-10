@@ -1,0 +1,29 @@
+Student Id 3
+Password :three 
+Date		Subjects 				Attendance
+20/12/24	Design and Analysis of Algorithm	Present
+20/12/24	Advanced Python Programming		Absent
+20/12/24	C++ Programming Language		Absent
+20/12/24	Database Management System		Present
+20/12/24	Calculus				Absent
+20/12/24	Statistics				Present
+20/12/24	Ecommerce and Digital Marketing		Absent
+		
+Date		Subjects 				Attendance
+21/12/24	Design and Analysis of Algorithm	Present
+21/12/24	Advanced Python Programming		Absent
+21/12/24	C++ Programming Language		Absent
+21/12/24	Database Management System		Present
+21/12/24	Calculus				Absent
+21/12/24	Statistics				Present
+21/12/24	Ecommerce and Digital Marketing		Absent
+		
+Date		Subjects 				Attendance
+22/12/24	Design and Analysis of Algorithm	Present
+22/12/24	Advanced Python Programming		Absent
+22/12/24	C++ Programming Language		Absent
+22/12/24	Database Management System		Present
+22/12/24	Calculus				Absent
+22/12/24	Statistics				Present
+22/12/24	Ecommerce and Digital Marketing		Absent
+
