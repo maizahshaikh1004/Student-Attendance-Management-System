@@ -45,8 +45,8 @@ python main.py
 5. **Generate Identity Card**: After account creation, generate an identity card with your details.
 
 ## Contributors
-**Maizah Shaikh**
-**Faiza Sayed**
+- **Maizah Shaikh**
+- **Faiza Sayed**
 
 ## Screenshots
 ![Start Up Page](Screenshots/StartUpPg.png)
